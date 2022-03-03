@@ -1,0 +1,90 @@
+.container1{
+    border: 5px solid rgb(184, 181, 5);
+    height: 60px;
+}
+.box1 p{
+    background-color: rgb(199, 69, 69);
+    font-size: 40px;
+    text-align: center;
+    margin: 0px;
+    height: 60px;
+}
+
+.container2{
+    border: 5px solid black;
+    overflow: hidden;
+    height: 200px;
+}
+.box-1 p{
+    background-color: rgb(109, 165, 165);
+    width: 60%;
+    float: left;
+    margin: 0px;
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+}
+
+.box-2 p{
+    background-color: rgb(109, 70, 146);
+    width: 40%;
+    float: right;
+    margin: 0px;
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+}
+
+.container3{
+    border: 5px solid blue;
+    overflow: hidden;
+    height: 150px;
+}
+.box_1 p{
+    float: left;
+    background-color: rgb(179, 179, 60);
+    width: 34%;
+    margin: 0px;
+    text-align: center;
+    color: rgb(238, 2, 2);
+    font-size: 40px;
+    height: 150px;
+}
+
+.box_2 p{
+    float: left;
+    background-color: rgb(94, 25, 28);
+    width: 33%;
+    margin: 0px;
+    text-align: center;
+    color: bisque;
+    font-size: 40px;
+    height: 150px;
+}
+
+.box_3 p{
+    float: left;
+    background-color: rgb(14, 155, 148);
+    width: 33%;
+    margin: 0px;
+    text-align: center;
+    color: bisque;
+    font-size: 40px;
+    height: 150px;
+}
+
+.container4{
+    border: 5px solid green;
+    height: 60px;
+}
+
+.box-0 p{
+    background-color: rgb(15, 95, 199);
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+    margin: 0px;
+    height: 60px;
+}
